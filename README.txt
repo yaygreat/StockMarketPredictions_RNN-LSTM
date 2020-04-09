@@ -1,4 +1,4 @@
-# Refer to Project.pdf
+# Refer to Report.pdf  
 
 ML Project: Examination of stock predictions using RNN & LSTM
 
