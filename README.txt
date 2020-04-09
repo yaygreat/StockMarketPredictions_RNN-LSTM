@@ -1,3 +1,5 @@
+# Refer to Project.pdf
+
 ML Project: Examination of stock predictions using RNN & LSTM
 
 The files necessary to run this project are:
